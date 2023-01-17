@@ -1,0 +1,6 @@
+print("#program menghitung suhu celcius ke fahrenheit dan reamur")
+c = input('masukkan nilai c')
+f = int(9/5)*int(c)+int(32)
+r = int(5/4)*int(c)
+print("f dari c ?" ,f)
+print("r dari c ?",r)
